@@ -178,3 +178,48 @@ Bitdefender VPN  iOS
 https://apps.apple.com/us/app/bitdefender-vpn/id1499633482
 
 
+
+
+[In reply to Alireza Hosseini]
+از این لیست من اینا رو روی گوشیم دارم
+Proton vpn 
+Windscribe
+Orbot
+Adguard vpn
+Psiphon                            Shadowsocks
+Invizible 
+در حال حاضر adguard , invizible , orbot و سرور های شادوساکس خوب واسم کار میکنن
+بقیشون یا دیر وصل میشن یا موقعی هم که وصل میشن قطعی و وصلی دارن
+
+
+
+آموزش ساخت اکانت proton vpn روی اپ اندرویدی و ios  
+اول  اپ رو دانلود کنید
+ios
+https://apps.apple.com/app/apple-store/id1437005085?pt=106513916&ct=protonvpn.com-dashboard&mt=8
+
+Android
+https://protonvpn.com/download/ProtonVPN.apk
+
+حالا به قسمت create account برید و یه اکانت جدید بسازید  حتما طی مراحل ثبتنام یه وی پی ان دیگه فعال باشه⬇️
+
+
+https://t.me/wbnet/83389
+[ Video ]
+آموزش ساخت اکانت پروتون وی پی ان 
+https://protonvpn.com/
+بدلیل اینکه وبسایت پروتون فیلتره ابتدا یه فیلترشکن مثه سایفون فعال کنید 
+
+وارد اپ proton vpn بشید
+
+windows
+ (https://protonvpn.com/download-windows/)ios
+ (https://apps.apple.com/app/apple-store/id1437005085?pt=106513916&ct=protonvpn.com-dashboard&mt=8)Android
+ (https://protonvpn.com/download/ProtonVPN.apk)mac (https://protonvpn.com/download-macos/)
+ 
+ 
+ https://t.me/wbnet/83392
+ [Forwarded from VPN CLUB via @dooxbot]
+وی‌پی‌ان‌های  امن و رایگان
+
+
